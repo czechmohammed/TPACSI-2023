@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444570817",
+    "project_id": "tpacsi-2023",
+    "storage_bucket": "tpacsi-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444570817:android:5f32a7d50ad597bcb6c840",
+        "android_client_info": {
+          "package_name": "com.example.tpacsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444570817-mn1l1gd9er40vt37185ipdou6gt2uq2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGx1OsJ3vnOwG9wytumLHfWX7_zgQuo9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444570817-mn1l1gd9er40vt37185ipdou6gt2uq2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
